@@ -9567,7 +9567,7 @@ var cases = {
 			weap1: {
 				name: "PP-Bizon | Cobalt Halftone WW",
 
-				price: 5000.32,
+				price: 0.32,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0v73ZShQ_dO_h4W0n_b4Na_emG5u5cB1g_zMyoD0mlOx5UVqYj-mIdKTdgNvM1HX_lK2lLrqjZe7u8ucm3RhviUj5n-LnxS-10lSLrs4qpLgoDA"
 
 			},
